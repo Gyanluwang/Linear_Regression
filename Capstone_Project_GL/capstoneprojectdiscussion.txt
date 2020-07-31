@@ -1,0 +1,19 @@
+OCT16:
+
+What to be done by next interactive session:
+1)literature review
+2)Get to know about all the features
+3)How to treat outliers
+4)Implementation of MICE
+5)EDA
+
+
+
+OCT-25
+- Do the univariate bivariate multivariable with price. Analysis of Basement, Quality, Sight with the price.
+- Estimation of the age of the house with price.
+- Check for the duplicates in the data needs to be removed.
+- Check for proportion of the price values which are outliers.
+- Also try to transform with the Lat and Longitude by not dropping them.  
+- Creating model for common scenario and apply mice with overall data then apply the model.
+- To come up with the business recommendations.
